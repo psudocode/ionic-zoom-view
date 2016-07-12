@@ -3,6 +3,7 @@
 ```
 $ bower install ionic-zoom-view --save
 ```
+*mine not bower ready yet
 
 ## Usage
 
@@ -19,6 +20,18 @@ Add the ```zoom-view``` directive to your ```<img>``` element:
 ```html
 <img ng-src='...' zoom-src="..." zoom-view />
 ```
+## enhancement options
+
+**zoom-src**
+
+for image URL
+
+
+**zoom-caption**
+
+for adding caption
+
+
 
 ## License
 
